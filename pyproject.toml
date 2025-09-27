@@ -1,6 +1,6 @@
 [project]
 name = "hexlet-code"
-version = "0.4.2"
+version = "0.4.3"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
@@ -25,7 +25,7 @@ brain-games = "brain_games.scripts.brain_games:main"
 brain-even = "brain_games.scripts.brain_even:main"
 
 [tool.ruff]
-line-length = 80
+line-length = 100
 target-version = "py310"
 
 [tool.ruff.lint]
