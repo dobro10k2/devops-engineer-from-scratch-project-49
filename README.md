@@ -1,11 +1,9 @@
 ## Brain Even Game
 
 [![asciicast](https://asciinema.org/a/8DwwSSP9EF5y4tOtpDo6AnD9X.svg)](https://asciinema.org/a/8DwwSSP9EF5y4tOtpDo6AnD9X)
-[![asciicast](https://asciinema.org/a/8DwwSSP9EF5y4tOtpDo6AnD9X.svg)](https://asciinema.org/a/8DwwSSP9EF5y4tOtpDo6AnD9X)
 
 ## Brain Calc Game
 
-[![asciicast](https://asciinema.org/a/m7bT1nfaEOEBUbLh7bkWmhMcP.svg)](https://asciinema.org/a/m7bT1nfaEOEBUbLh7bkWmhMcP)
 [![asciicast](https://asciinema.org/a/m7bT1nfaEOEBUbLh7bkWmhMcP.svg)](https://asciinema.org/a/m7bT1nfaEOEBUbLh7bkWmhMcP)
 
 ### Hexlet tests and linter status:
