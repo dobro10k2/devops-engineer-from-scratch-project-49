@@ -1,3 +1,7 @@
+## Demo: Brain Even Game
+
+[![asciicast](https://asciinema.org/a/8DwwSSP9EF5y4tOtpDo6AnD9X.svg)](https://asciinema.org/a/8DwwSSP9EF5y4tOtpDo6AnD9X)
+
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/dobro10k2/devops-engineer-from-scratch-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/dobro10k2/devops-engineer-from-scratch-project-49/actions)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=dobro10k2_devops-engineer-from-scratch-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=dobro10k2_devops-engineer-from-scratch-project-49)
