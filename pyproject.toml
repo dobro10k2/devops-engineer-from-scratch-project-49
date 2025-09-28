@@ -1,5 +1,5 @@
 [project]
-name = "brain-game"
+name = "hexlet-code"
 version = "0.8.0"
 description = "«Игры разума» — набор из пяти консольных игр"
 readme = "README.md"
