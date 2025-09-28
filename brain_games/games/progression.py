@@ -4,7 +4,6 @@ TASK = "What number is missing in the progression?"
 
 
 def make_progression(start, step, length):
-    """Создаёт арифметическую прогрессию заданной длины."""
     return [start + i * step for i in range(length)]
 
 

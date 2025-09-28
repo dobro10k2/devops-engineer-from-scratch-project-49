@@ -4,7 +4,6 @@ TASK = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
 def is_prime(n: int) -> bool:
-    """Проверяет, является ли число простым."""
     if n < 2:
         return False
     if n % 2 == 0:
@@ -18,7 +17,6 @@ def is_prime(n: int) -> bool:
 
 
 def get_round():
-    """Возвращает кортеж (вопрос, правильный ответ)."""
     number = random.randint(1, 100)
     question = str(number)
     correct_answer = "yes" if is_prime(number) else "no"
