@@ -13,10 +13,10 @@
 
 [![asciicast](https://asciinema.org/a/m7bT1nfaEOEBUbLh7bkWmhMcP.svg)](https://asciinema.org/a/m7bT1nfaEOEBUbLh7bkWmhMcP)
 
-## Brain Calc GCD
+## Brain GCD Game
 
 [![asciicast](https://asciinema.org/a/Y1jKRGnlfvNo1RInH0PZ8BLky.svg)](https://asciinema.org/a/Y1jKRGnlfvNo1RInH0PZ8BLky)
 
-## Brain Calc PROGRESSION
+## Brain Progression Game
 
 [![asciicast](https://asciinema.org/a/hMZQ80AZV4NB9PaZsMvwUfjSP.svg)](https://asciinema.org/a/hMZQ80AZV4NB9PaZsMvwUfjSP)
