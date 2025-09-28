@@ -1,9 +1,12 @@
 [project]
-name = "hexlet-code"
+name = "brain-game"
 version = "0.8.0"
-description = "Add your description here"
+description = "«Игры разума» — набор из пяти консольных игр"
 readme = "README.md"
-requires-python = ">=3.12"
+authors = [
+    { name = "Неустроев Алексей", email = "hbg@yandex.ru" }
+]
+requires-python = ">=3.10"
 dependencies = [
     "prompt>=0.4.1",
 ]
