@@ -1,6 +1,6 @@
 [project]
 name = "hexlet-code"
-version = "0.8.0"
+version = "0.9.0"
 description = "«Игры разума» — набор из пяти консольных игр"
 readme = "README.md"
 authors = [

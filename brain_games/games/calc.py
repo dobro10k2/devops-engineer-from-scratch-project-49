@@ -1,12 +1,16 @@
 import random
 
+MIN_NUMBER = 1
+MAX_NUMBER = 20
+OPERATIONS = ["+", "-", "*"]
+
 TASK = "What is the result of the expression?"
 
 
 def get_round():
-    num1 = random.randint(1, 20)
-    num2 = random.randint(1, 20)
-    op = random.choice(["+", "-", "*"])
+    num1 = random.randint(MIN_NUMBER, MAX_NUMBER)
+    num2 = random.randint(MIN_NUMBER, MAX_NUMBER)
+    op = random.choice(OPERATIONS)
 
     match op:
         case "+":
